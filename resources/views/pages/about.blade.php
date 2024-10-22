@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ABOUT PAGE
+                    ABOUT {{$fullname}}
                 </div>
 
                 <div class="links">
